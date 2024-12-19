@@ -1,0 +1,40 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.* 
+
+# Build output
+/dist
+/build
+
+# Dependency directories
+/bower_components
+
+# IDE and Editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local assets (if you don't want to track images and static files)
+assets/img/
+assets/uploads/
+
+# npm package-lock file (optional: if you want to ignore lock files)
+package-lock.json
+
+# Temporary files created by some packages
+*.swp
+*.swo
+
+# Coverage and testing results
+/coverage/

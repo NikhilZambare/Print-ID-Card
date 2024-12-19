@@ -1,0 +1,23 @@
+[
+    { "id": "S001", "name": "John Doe", "course": "Mathematics", "department": "Science" },
+    { "id": "S002", "name": "Jane Smith", "course": "Physics", "department": "Science" },
+    { "id": "S003", "name": "Alice Johnson", "course": "Biology", "department": "Science" },
+    { "id": "S004", "name": "Bob Brown", "course": "English", "department": "Arts" },
+    { "id": "S005", "name": "Charlie Davis", "course": "History", "department": "Arts" },
+    { "id": "S006", "name": "David Clark", "course": "Chemistry", "department": "Science" },
+    { "id": "S007", "name": "Eva Walker", "course": "Computer Science", "department": "Engineering" },
+    { "id": "S008", "name": "Frank Lewis", "course": "Electrical Engineering", "department": "Engineering" },
+    { "id": "S009", "name": "Grace Harris", "course": "Mechanical Engineering", "department": "Engineering" },
+    { "id": "S010", "name": "Hannah Young", "course": "Design", "department": "Arts" },
+    { "id": "S011", "name": "Isaac King", "course": "Law", "department": "Law" },
+    { "id": "S012", "name": "Jackie Scott", "course": "Medicine", "department": "Health" },
+    { "id": "S013", "name": "Kylie Moore", "course": "Philosophy", "department": "Arts" },
+    { "id": "S014", "name": "Liam Adams", "course": "Psychology", "department": "Science" },
+    { "id": "S015", "name": "Mia Nelson", "course": "Sociology", "department": "Social Sciences" },
+    { "id": "S016", "name": "Nathan Perez", "course": "Education", "department": "Education" },
+    { "id": "S017", "name": "Olivia White", "course": "Nursing", "department": "Health" },
+    { "id": "S018", "name": "Peter Harris", "course": "Architecture", "department": "Engineering" },
+    { "id": "S019", "name": "Quincy Cooper", "course": "Business", "department": "Business" },
+    { "id": "S020", "name": "Rebecca Mitchell", "course": "Economics", "department": "Business" }
+  ]
+  
